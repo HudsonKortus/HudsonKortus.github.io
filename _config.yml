@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hudson Kortus Portfolio # the website title (if blank, full name will be used instead)
+title: Hudson Kortus # the website title (if blank, full name will be used instead)
 first_name: Hudson
 middle_name: W.
 last_name: Kortus
@@ -40,15 +40,15 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
-search_enabled: true
+footer_fixed: false
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -439,9 +439,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 # Library versions
 # -----------------------------------------------------------------------------
 
-# Add the url, version and integrity hash of the libraries you use in your site.
-# The integrity hash is used to ensure that the library is not tampered with.
-# Integrity hashes not provided by the libraries were generated using https://www.srihash.org/
+# Add thxovided by the libraries were generated using https://www.srihash.org/
 third_party_libraries:
   download: false # if true, download the versions of the libraries specified below and use the downloaded files
   bootstrap-table:
