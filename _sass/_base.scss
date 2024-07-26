@@ -1311,3 +1311,35 @@ ninja-keys::part(ninja-input-wrapper) {
   margin: 0px;
 }
 
+.GUI{
+  background-image: url(/assets/img/download.png); /* 16px x 16px */
+  background-color: transparent; /* transparent; /* make the button transparent */
+  background-repeat: no-repeat;  /* make the background image appear only once */
+  background-position: 0px 0px;  /* equivalent to 'top left' */
+  background-size: 100px 30px;
+  border: none;           /* assuming we don't want any borders */
+  cursor: pointer;        /* make the cursor like hovering over an <a> element */
+  height: 30px;           /* make this the size of your image */
+  width: 100px;
+  padding-left: 16px;     /* make text start to the right of the image */
+  padding-right: 16px;
+  vertical-align: middle; /* align the text vertically centered */
+  margin: 0px;
+}
+
+.projects{
+  
+  background-image: url(/assets/img/sidekick_logo_white_v12.png); /* 16px x 16px */
+  background-color: transparent; /* transparent; /* make the button transparent */
+  background-repeat: no-repeat;  /* make the background image appear only once */
+  background-position: 0px 0px;  /* equivalent to 'top left' */
+  background-size: 100px 30px;
+  border: none;           /* assuming we don't want any borders */
+  cursor: pointer;        /* make the cursor like hovering over an <a> element */
+  height: 30px;           /* make this the size of your image */
+  width: 100px;
+  padding-left: 16px;     /* make text start to the right of the image */
+  padding-right: 16px;
+  vertical-align: middle; /* align the text vertically centered */
+  margin: 0px;
+}
