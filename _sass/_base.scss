@@ -1296,7 +1296,7 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 .titleIcon {
-  background-image: url(/assets/img/Samples2.png); /* 16px x 16px */
+  background-image: url(/assets/img/SK_logo.svg); /* 16px x 16px */
   background-color: transparent; /* transparent; /* make the button transparent */
   background-repeat: no-repeat;  /* make the background image appear only once */
   background-position: 0px 0px;  /* equivalent to 'top left' */
@@ -1312,11 +1312,11 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 #GUI {
-  background-image: url(/assets/img/download.png); /* 16px x 16px */
+  background-image: url(/assets/img/Stem_logo_GUI_website.svg); /* 16px x 16px */
   background-color: transparent; /* transparent; /* make the button transparent */
   background-repeat: no-repeat;  /* make the background image appear only once */
   background-position: 0px 0px;  /* equivalent to 'top left' */
-  background-size: 70px 60px;
+  background-size: 70px 50px;
   border: none;           /* assuming we don't want any borders */
   cursor: pointer;        /* make the cursor like hovering over an <a> element */
   height: 70px;           /* make this the size of your image */
@@ -1329,18 +1329,18 @@ ninja-keys::part(ninja-input-wrapper) {
 
 #STEM {
   
-  background-image: url(/assets/img/sidekick_logo_white_v12.png); /* 16px x 16px */
+  background-image: url(/assets/img/Stem_logo_website.svg); /* 16px x 16px */
   background-color: transparent; /* transparent; /* make the button transparent */
   background-repeat: no-repeat;  /* make the background image appear only once */
   background-position: 0px 0px;  /* equivalent to 'top left' */
-  background-size: 70px 60px;
+  background-size: 70px 50px;
   border: none;           /* assuming we don't want any borders */
   cursor: pointer;        /* make the cursor like hovering over an <a> element */
   height: 70px;           /* make this the size of your image */
   width: 60px;
   padding-left: 5px;     /* make text start to the right of the image */
   padding-right: 5px;
-  vertical-align: middle; /* align the text vertically centered */
+  vertical-align: top; /* align the text vertically centered */
   margin: 0px;
 }
 
@@ -1353,4 +1353,10 @@ ninja-keys::part(ninja-input-wrapper) {
     display: inherit;
     padding-top: 10%;
     border-width: 0;
+}
+
+body  {
+  background-image: url(/assets/img/bg_website.svg);
+  background-size: 100% 100%;
+  background-size: cover;
 }
