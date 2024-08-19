@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+  more_info:
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a junior robotics Engineering student from WPI with significant hands on and industry experience. I worked 1.5 years at a full stack web internship with an award winning educational nonprofit maintaining and expanding educational resources, and have worked for 2 summers as a Robotics and automation RnD Coop with TTM Technologies, a primer domestic circuit board manufacture. In classes I have written mapping, path finding, and localization algorithms using ros- allowing a turtle bot to map and navigate a maze; calculated and implemented reverse kinematics of a 5dof robotic arm- allowing it to pickup and sort balls; and performed cutting edge research on the viability of pellet 3d printing ultra-soft materials- enabling 3d printed structures with shore hardness as low as 0030a.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Robotics engineering stands at the intersection of electrical engineering, mechanical engineering, and computer science. This highly interdisciplinary education unequally positions me. I am able to design systems with full knowledge of what implications my decisions will have across the mechanical, electrical, and software design requirements. I can seamlessly bring a concept from an imaginary sketch to design and manufacturing, all the way through coding and deploying. This makes me an incurably agile and versatile full stack product engineer capable of everything from designing and analyzing custom linkage systems, to building complex deep learning models for sensor perception.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My dream is to engineer positive solutions to climate change. I want to spend my life making the world better using my engineering skills to help the environment. My interdisciplinary education and experience puts me in an excellent positon to think outside the box and develop innovate solutions.
