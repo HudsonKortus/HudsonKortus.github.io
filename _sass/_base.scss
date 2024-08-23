@@ -1300,13 +1300,12 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: transparent; /* transparent; /* make the button transparent */
   background-repeat: no-repeat;  /* make the background image appear only once */
   background-position: 0px 0px;  /* equivalent to 'top left' */
-  background-size: 150px 50px;
+  background-size: 160px 70px;
   border: none;           /* assuming we don't want any borders */
   cursor: pointer;        /* make the cursor like hovering over an <a> element */
-  height: 50px;           /* make this the size of your image */
+  height: 65px;           /* make this the size of your image */
   width: 150px;
-  padding-left: 16px;     /* make text start to the right of the image */
-  padding-right: 16px;
+  padding: 0px;
   vertical-align: middle; /* align the text vertically centered */
   margin: 0px;
 }
@@ -1325,6 +1324,7 @@ ninja-keys::part(ninja-input-wrapper) {
   padding-right: 5px;
   vertical-align: middle; /* align the text vertically centered */
   margin: 0px;
+  padding-top: 50px
 }
 
 #STEM {
@@ -1342,6 +1342,25 @@ ninja-keys::part(ninja-input-wrapper) {
   padding-right: 5px;
   vertical-align: top; /* align the text vertically centered */
   margin: 0px;
+  padding-top: 50px
+}
+
+#ConsciOS {
+  
+  background-image: url(/assets/img/Stem_logo_website.svg); /* 16px x 16px */
+  background-color: transparent; /* transparent; /* make the button transparent */
+  background-repeat: no-repeat;  /* make the background image appear only once */
+  background-position: 0px 0px;  /* equivalent to 'top left' */
+  background-size: 70px 50px;
+  border: none;           /* assuming we don't want any borders */
+  cursor: pointer;        /* make the cursor like hovering over an <a> element */
+  height: 70px;           /* make this the size of your image */
+  width: 60px;
+  padding-left: 5px;     /* make text start to the right of the image */
+  padding-right: 5px;
+  vertical-align: top; /* align the text vertically centered */
+  margin: 0px;
+  padding-top: 50px
 }
 
 #headderVideo {
@@ -1356,7 +1375,9 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 body  {
-  background-image: url(/assets/img/bg_website.svg);
-  background-size: 100% 100%;
+  background-image: url(/assets/img/largeWebsiteBackground.svg);
+  // background-repeat: repeat-x;
+  // background-repeat: repeat-y;
+  // background-size: 100% 100%;
   background-size: cover;
 }
