@@ -8,6 +8,13 @@ category: work
 giscus_comments: false
 featured: true 
 ---
+
+<p>
+The high power rocket club (HPRC) builds a rocket and payload every year to compete at the Spaceport America Cup. The payload, which I work on, fits in the rocket during flight and can have any mission we design for it. The rocket is tasked with flying a payload exactly 10,000 ft and the payload can have just about any mission we choose. 
+</p>
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Projects/IMG_8497.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -17,18 +24,12 @@ featured: true
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Projects/IMG_8494.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Projects/IMG_8688.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 
 
-
-The high power rocket club (HPRC) builds a rocket and payload every year to compete at the Spaceport America Cup. The payload, which I work on, fits in the rocket during flight and can have any mission we design for it. The rocket is tasked with flying a payload exactly 10,000 ft and the payload can have just about any mission we choose. 
-
-
+<p>
 This year the payload was a 10x10x70 cm steerable parachute lander. After the rocket launched and its parachutes opened, the payload would eject away from the rest of the rocket and fall under its own special parachute. The payload is capable of pulling in, or reefing, the parachute lines which deformed the parachute, creating some lift, allowing the payload to steer. An on board camera which is stowed during flight, flips out and looks at the ground after the payload ejects. The camera uses computer vision to find a clear location for the payload to land, and then relayed that GPS location to the control system which stears the payload to the location.
-
+</p>
 
 
 <div class="row">
