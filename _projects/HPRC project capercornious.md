@@ -10,7 +10,7 @@ featured: true
 ---
 
 <p>
-The high power rocket club (HPRC) builds a rocket and payload every year to compete at the Spaceport America Cup. The payload, which I work on, fits in the rocket during flight and can have any mission we design for it. The rocket is tasked with flying a payload exactly 10,000 ft and the payload can have just about any mission we choose. 
+The high power rocket club (HPRC) builds a rocket and payload every year to compete at the Spaceport America Cup. The rocket is tasked with flying a payload to exactly 10,000 ft and the payload can have just about any mission we choose. This year the payload was a 10x10x70 cm steerable parachute lander. 
 </p>
 
 
@@ -28,7 +28,7 @@ The high power rocket club (HPRC) builds a rocket and payload every year to comp
 
 
 <p>
-This year the payload was a 10x10x70 cm steerable parachute lander. After the rocket launched and its parachutes opened, the payload would eject away from the rest of the rocket and fall under its own special parachute. The payload is capable of pulling in, or reefing, the parachute lines which deformed the parachute, creating some lift, allowing the payload to steer. An on board camera which is stowed during flight, flips out and looks at the ground after the payload ejects. The camera uses computer vision to find a clear location for the payload to land, and then relayed that GPS location to the control system which stears the payload to the location.
+After the rocket launched and its parachutes opened, the payload would eject away from the rest of the rocket and fall under its own special parachute. The payload is capable of pulling in, or reefing, the parachute lines which deformed the parachute, creating some lift, allowing the payload to steer. An on board camera which is stowed during flight, flips out and looks at the ground after the payload ejects. The camera uses computer vision to find a clear location for the payload to land, and then relayed that GPS location to the control system which stears the payload to the location.
 </p>
 
 
