@@ -9,4 +9,4 @@ category: fun
 <!-- <iframe src="http://docs.google.com/gview?url=http://path.com/to/your/pdf.pdf&embedded=true" 
 style="width:600px; height:500px;" frameborder="0"></iframe> -->
 
-<iframe id="iframepdf" src="assets/pdf/RBE474X_P3.pdf"></iframe>
+<!-- <iframe id="iframepdf" src="assets/pdf/RBE474X_P3.pdf"></iframe> -->
