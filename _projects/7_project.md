@@ -3,10 +3,16 @@ layout: page
 title: project 7
 description: with background image
 img: assets/img/4.jpg
-importance: 1
+importance: 7
 category: work
 related_publications: true
 ---
+
+<!-- <iframe src="http://docs.google.com/gview?url=http://path.com/to/your/pdf.pdf&embedded=true" 
+style="width:600px; height:500px;" frameborder="0"></iframe> -->
+
+ 
+<iframe id="iframepdf" src="https://hudsonkortus.github.io/assets/pdf/RBE474X_P3.pdf"></iframe>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
