@@ -8,11 +8,6 @@ category: fun
 ---
 
 
-<!-- <iframe src="http://docs.google.com/gview?url=http://path.com/to/your/pdf.pdf&embedded=true" 
-style="width:600px; height:500px;" frameborder="0"></iframe> -->
-
-<!--  
-<iframe id="iframepdf" src="https://hudsonkortus.github.io/assets/pdf/RBE474X_P3.pdf"></iframe> -->
 
 
 Every project has a beautiful feature showcase page.
