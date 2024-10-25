@@ -12,8 +12,6 @@ related_publications: true
 style="width:600px; height:500px;" frameborder="0"></iframe> -->
 
  
-<iframe id="iframepdf" src="https://hudsonkortus.github.io/assets/pdf/RBE474X_P3.pdf"></iframe>
-
 
 
 Every project has a beautiful feature showcase page.
