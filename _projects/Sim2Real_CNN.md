@@ -14,8 +14,7 @@ In Deep Learning For perception we built a U-Net style CNN for segmenting drone 
 
 <video width="640" height="280" controls muted>
   <source src="https://hudsonkortus.github.io/assets/img/Projects/part2.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
+    Your browser does not support the video tag.
 </video>
 
 
