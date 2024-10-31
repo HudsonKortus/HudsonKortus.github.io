@@ -52,7 +52,7 @@ Ultra soft plastics simply don't work on a conventional roll, especially plastic
 </div>
 
 
-My task in the lab was simple: Make 0030a TPE print well using an xyz pellet extruder on an e3d tool changer 3d printer. I performed multiple print setting studies to optimize the print temperature, speed, and fan levels to dramatically improve print quality. I redesigned the cooling on the extruder to eliminate heat creep melting the pellets in the reservoir. This further improved print quality. Unfortunately, after 7 weeks of me working in the lab, Professor Nemitz and the Advanced Materials Group moved to Tufts so I was unable to continue my redesign. I want to explore pellet printing in the future because it has the potential to revolutionize 3d printing
+My task in the lab was simple: Make 0030a TPE print well using an xyz pellet extruder on an e3d tool changer 3d printer. I performed multiple print setting studies to optimize the print temperature, speed, and fan levels to dramatically improve print quality. I redesigned the cooling on the extruder to eliminate heat creep melting the pellets in the reservoir. This further improved print quality. Unfortunately, after 7 weeks of me working in the lab, Professor Nemitz and the Advanced Materials Group moved to Tufts so I was unable to continue my redesign. I want to explore pellet printing in the future because it has the potential to revolutionize 3d printing.
 
 
 
