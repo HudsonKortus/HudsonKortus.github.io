@@ -10,8 +10,8 @@ featured: true
 ---
 
 The final project of  Deep Learning For Perception was building a diffusion neural network for dataset augmentation. We built and trained a diffusion network to generate images from the CIFAR-10 dataset. 
-
-<iframe class="pdf" 
-                src="https://hudsonkortus.github.io/assets/pdf/RBE474X_P4.pdf"
-            width="920" height="820">
-</iframe>
+<div class="PDF">
+    <iframe class="pdf" 
+                    src="https://hudsonkortus.github.io/assets/pdf/RBE474X_P4.pdf">
+    </iframe>
+</div>
