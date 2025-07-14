@@ -1,0 +1,27 @@
+<div class="col">
+    <div class="card h-100 hoverable">
+      {% if employers.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=employers.img
+          sizes = "250px"
+          alt="employer thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        {% comment %} <h2 class="card-title">{{ employers.title }}</h2> {% endcomment %}
+        <p class="card-text">{{ employers.description }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          <div class="dropdown-menu dropdown-menu-right">
+            <a class="dropdown-item">
+              <li> 1</li>
+              <li> 2</li>
+              <li> 3</li>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

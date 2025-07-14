@@ -196,6 +196,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  employers:
+    output: true
+    permalink: /:collection/:title/
 
 announcements:
   enabled: false
