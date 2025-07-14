@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced Materials Group
-description: this is a test and a lot of other text
+description:
 img: assets/img/Projects/Advanced_Materials_Group/cover_photo.png
 importance: 19
 category: work
