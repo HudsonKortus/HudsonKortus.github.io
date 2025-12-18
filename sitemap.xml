@@ -1,0 +1,40 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+    {% unless page.url contains 'assets' or page.url contains '.json' %}
+      <url>
+        <loc>{{ page.url | absolute_url }}</loc>
+        {% if page.last_modified_at %}
+          <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+        {% elsif page.date %}
+          <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+        {% endif %}
+        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+        <priority>{% if page.priority %}{{ page.priority }}{% else %}0.8{% endif %}</priority>
+      </url>
+    {% endunless %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ post.url | absolute_url }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  {% endfor %}
+
+  {% for project in site.projects %}
+    <url>
+      <loc>{{ project.url | absolute_url }}</loc>
+      {% if project.date %}
+        <lastmod>{{ project.date | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  {% endfor %}
+</urlset>
