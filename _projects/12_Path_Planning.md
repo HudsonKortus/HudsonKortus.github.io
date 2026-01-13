@@ -16,7 +16,7 @@ Below is a video of our path planner and trajectory planner on a simulated envir
 <div id="row" style="text-align: center;" >
   <!-- <div class="sim2realVid"> -->
     <iframe width="70%"
-            src="https://youtu.be/okSVnTHA5Ng" 
+            src="https://www.youtube.com/embed/okSVnTHA5Ng"
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen>

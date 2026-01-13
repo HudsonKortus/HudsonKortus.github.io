@@ -21,7 +21,7 @@ We were required to take the website down at the end of the class, but below are
 
 <div class="carousel-container" style="margin-bottom: 2rem;">
     <div class="carousel-wrapper" style="position: relative; width: 100%; max-width: 1000px; margin: 0 auto; cursor: pointer;" onclick="nextImage()">
-        <img id="carouselImage" src="{{ '/assets/img/Projects/Soft_Eng/1.png' | relative_url }}" alt="Hospital Navigation Screenshot" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img id="carouselImage" src="{{ '/assets/img/Projects/Soft_Eng_Carousel/1.png' | relative_url }}" alt="Hospital Navigation Screenshot" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="text-align: center; margin-top: 0.5rem; color: var(--global-text-color);">
             <span id="imageCounter">1 / 5</span>
             <p style="font-size: 0.9rem; margin-top: 0.25rem;">Click image to view next</p>
@@ -42,7 +42,7 @@ We were required to take the website down at the end of the class, but below are
         '{{ "/assets/img/Projects/Soft_Eng_Carousel/9.png" | relative_url }}',
         '{{ "/assets/img/Projects/Soft_Eng_Carousel/10.png" | relative_url }}',
         '{{ "/assets/img/Projects/Soft_Eng_Carousel/11.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng_Carousel/12.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/0.png" | relative_url }}',
     ];
     let currentIndex = 0;
 
