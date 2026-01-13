@@ -2,7 +2,7 @@
 layout: page
 title: RRT* Paths and Minimum Snap Trajectory 
 description: 
-img: assets/img/Projects/RRT_path.png
+img: assets/img/Project_Card/RRT_Path.jpg
 importance: 12
 category: work
 giscus_comments: false

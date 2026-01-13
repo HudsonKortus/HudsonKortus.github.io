@@ -2,7 +2,7 @@
 layout: page
 title: HPRC Project Capercornious
 description:
-img: assets/img/Projects/capercournis1.jpg
+img: assets/img/Project_Card/Capercournis1.jpg
 importance: 17
 category: work
 giscus_comments: false

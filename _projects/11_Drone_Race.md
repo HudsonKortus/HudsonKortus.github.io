@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Drone Racing with Monocular Vision
 description:
-img: assets/img/Projects/drone_Race.jpg
+img: assets/img/Project_Card/Drone_Race.jpg
 importance: 11
 category: work
 giscus_comments: false

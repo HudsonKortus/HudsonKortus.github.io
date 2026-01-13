@@ -2,7 +2,7 @@
 layout: page
 title: Hospital Navigation Website
 description:
-img: assets/img/Projects/Soft_Eng.png
+img: assets/img/Project_Card/Soft_Eng.png
 importance: 14
 category: work
 giscus_comments: false
@@ -31,18 +31,18 @@ We were required to take the website down at the end of the class, but below are
 
 <script>
     const images = [
-        '{{ "/assets/img/Projects/Soft_Eng/1.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/2.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/3.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/4.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/5.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/6.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/7.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/8.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/9.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/10.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/11.png" | relative_url }}',
-        '{{ "/assets/img/Projects/Soft_Eng/12.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/1.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/2.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/3.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/4.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/5.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/6.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/7.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/8.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/9.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/10.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/11.png" | relative_url }}',
+        '{{ "/assets/img/Projects/Soft_Eng_Carousel/12.png" | relative_url }}',
     ];
     let currentIndex = 0;
 

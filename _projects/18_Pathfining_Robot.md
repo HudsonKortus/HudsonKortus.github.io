@@ -2,7 +2,7 @@
 layout: page
 title: Pathfinding Autonomous Robot
 description:
-img: assets/img/Projects/TurtuleBot.png
+img: assets/img/Project_Card/TurtuleBot.jpg
 importance: 18
 category: work
 featured: true 

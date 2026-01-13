@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Sim2Real U-Net style CNN
+title: Sim2Real U-Net CNN
 description:
-img: assets/img/Projects/whiteBackgroundUnet.png
+img: assets/img/Project_Card/Unet.png
 importance: 16
 category: work
 giscus_comments: false

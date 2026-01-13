@@ -2,7 +2,7 @@
 layout: page
 title: Diffusion Neural Network
 description:
-img: assets/img/Projects/CIFAR10.png
+img: assets/img/Project_Card/CIFAR10.png
 importance: 15
 category: work
 giscus_comments: false

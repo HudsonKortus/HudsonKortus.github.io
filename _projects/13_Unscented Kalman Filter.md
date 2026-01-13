@@ -2,7 +2,7 @@
 layout: page
 title: Unscented Kalman Filter
 description:
-img: assets/img/Projects/ukf.png
+img: assets/img/Project_Card/UKF.png
 importance: 13
 category: work
 giscus_comments: false

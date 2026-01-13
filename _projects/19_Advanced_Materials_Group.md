@@ -2,7 +2,7 @@
 layout: page
 title: Advanced Materials Group
 description:
-img: assets/img/Projects/Advanced_Materials_Group/cover_photo.png
+img: assets/img/Project_Card/3d_Printer.jpg
 importance: 19
 category: work
 related_publications: false
