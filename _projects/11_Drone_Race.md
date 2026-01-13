@@ -26,14 +26,14 @@ From the resulting flow field, we segmented navigable free space, estimated the 
 Our system completed the full out-and-back course in approximately 260 seconds, the third fastest time in the class, demonstrating that reliable autonomous flight through unknown, visually ambiguous environments is possible using only a single camera and motion-based perception.
 
 <div id="row" style="text-align: center;" >
-  <!-- <div class="sim2realVid"> -->
-    <iframe width="70%"
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 70%; margin: 0 auto 20px auto;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             src="https://www.youtube.com/embed/VnGCHX8Ou1Q" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen>
     </iframe>
-  <!-- </div> -->
+  </div>
 </div>
 
 <div class="PDF">
