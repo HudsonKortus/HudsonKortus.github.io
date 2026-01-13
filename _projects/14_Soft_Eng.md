@@ -55,6 +55,6 @@ We were required to take the website down at the end of the class, but below are
 
 <div class="PDF">
     <iframe class="pdf" 
-                    src="https://hudsonkortus.github.io/assets/pdf/WPI CS3733-D25 Software Engineering, Prof. Wong (1).pdf">
+                    src="https://hudsonkortus.github.io/assets/pdf/CS3733_final_report.pdf">
     </iframe>
 </div>
