@@ -16,7 +16,7 @@ For Unified Robotics IV, I worked with a team of 3 to program a turtle bot capab
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Projects/TurtuleBot.png" title="example image" class="img-fluid rounded z-depth-2" %}
+        {% include figure.liquid loading="eager" path="assets/img/Projects/TurtuleBot.jpg" title="example image" class="img-fluid rounded z-depth-2" %}
         <div class="caption">
             TurtuleBot navigating Maze
         </div>
