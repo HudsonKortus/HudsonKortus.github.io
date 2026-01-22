@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
   My interdisciplinary background enables me to take projects from an early concept, through mechanical design, electrical integration, and programming. I'm comfortable working across system layers from embedded firmware running on RTOS to high-level controls and sensor perception.
 </p>
 <p>
-  Finally this interdisciplinary gives me the foundation needed to rapidly specialize when needed. Because I already have such a wide conceptual framework, I can quickly dive deep into a new topic and become an expert rapidly.
+  Finally this experience gives me the foundation needed to rapidly specialize when needed. Because I already have such a wide conceptual framework, I can quickly dive deep into a new topic and become an expert rapidly.
 </p>
 
 <h2>
