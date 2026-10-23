@@ -15,13 +15,8 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <p>
-  My name is Hudson Kortus, I am a Senior Robotics Engineering student at Worcester Polytechnic with a highly interdisciplinary skillset and the industry experience needed to jump into a small, fast moving team, and ship projects. I am deeply passionate about tough hard-tech problems related to studying and mitigating the impacts of climate change and have the skillset to contribute to almost any team. I have designed and manufactured electro mechanical systems using both Solidworks and Onshape, created PCB’s using KiCad, and have programming experience ranging from embedded C to ROS and neural networks.
-</p>
-<p>
-  My interdisciplinary background enables me to take projects from an early concept, through mechanical design, electrical integration, and programming. I'm comfortable working across system layers from embedded firmware running on RTOS to high-level controls and sensor perception.
-</p>
-<p>
-  Finally this experience gives me the foundation needed to rapidly specialize when needed. Because I already have such a wide conceptual framework, I can quickly dive deep into a new topic and become an expert rapidly.
+  My name is Hudson Kortus, I am a Founder of American Manufacturing Goods and Services, or AMGS. 
+
 </p>
 
 <h2>
