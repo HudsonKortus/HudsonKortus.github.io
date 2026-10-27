@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <p>
-  My name is Hudson Kortus, I am a Founder of American Manufacturing Goods and Services, or AMGS. 
+  My name is Hudson Kortus, I am a Co-Founder of American Manufacturing Goods and Services, or AMGS. 
 
 </p>
 
@@ -32,7 +32,7 @@ Employers
 
   <!-- Generate cards for each project -->
 
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for employers in sorted_employers %}
       {% include employers.liquid %}
     {% endfor %}
